@@ -1,2 +1,1 @@
 # bltc
-GitHub Pages
